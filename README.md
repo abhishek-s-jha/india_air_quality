@@ -9,7 +9,7 @@ The dataset contains air quality data for Indian cities spanning from the year 2
 ## Resources
 
 - **Kaggle Dataset:** [Time Series Air Quality Data of India 2010-2023](https://www.kaggle.com/datasets/abhisheksjha/time-series-air-quality-data-of-india-2010-2023)
-- **Project Presentation:** [Google Drive - Project Presentation](https://drive.google.com/file/d/13ualziWvBmCNKZ9pD-tAESPBkUEKlLnK)
+- **Project Presentation:** [Project Presentation](https://drive.google.com/file/d/13ualziWvBmCNKZ9pD-tAESPBkUEKlLnK)
 
 ## Key Features
 
