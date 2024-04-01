@@ -1,0 +1,326 @@
+state,city,site_id,model_name,rmse,adj_r2
+Karnataka,Belgaum,site_5432,linear_regression,16.435649525629955,0.7239033630121903
+Karnataka,Mangalore,site_5421,linear_regression,17.704697800220952,0.28077165962574757
+Karnataka,Mysuru,site_5125,linear_regression,7.4047193356436996,0.5358397460440942
+Karnataka,Chikkamagaluru,site_5265,linear_regression,9.06599209098648,0.5132292327216106
+Karnataka,Shivamogga,site_5266,linear_regression,12.473669981803724,0.48928863321179905
+Karnataka,Vijayapura,site_5267,linear_regression,8.531166459930489,0.5341037323024704
+Karnataka,Ramanagara,site_5255,linear_regression,8.609789535894102,0.7878893268274938
+Karnataka,Bengaluru,site_5686,linear_regression,9.149077791238238,0.6798026092749527
+Karnataka,Madikeri,site_5391,linear_regression,6.190645052671039,0.7739325476439843
+Karnataka,Haveri,site_5420,linear_regression,10.32656674081908,0.8117164640137908
+Karnataka,Bengaluru,site_1558,linear_regression,13.110257888303247,0.6525678793587035
+Karnataka,Hassan,site_5448,linear_regression,11.372350495852722,0.5589197579416566
+Karnataka,Koppal,site_5415,linear_regression,11.335999095990044,0.542846944497762
+Karnataka,Bagalkot,site_5264,linear_regression,28.605311577902,0.20034515920348994
+Karnataka,Gadag,site_5419,linear_regression,94.44165582680588,0.08102265801751518
+Karnataka,Chamarajanagar,site_5124,linear_regression,8.045126526527019,0.6233012205041324
+Karnataka,Bengaluru,site_5678,linear_regression,20.90291107218267,0.5321104299190345
+Karnataka,Raichur,site_5414,linear_regression,13.215875673216042,0.6720444250628725
+Karnataka,Bengaluru,site_1553,linear_regression,28.497080724401968,0.396131911441593
+Karnataka,Kalaburagi,site_5679,linear_regression,9.529395811941137,0.9085720751925964
+Karnataka,Yadgir,site_5254,linear_regression,11.8537790960542,0.6871354530020385
+Karnataka,Bengaluru,site_1555,linear_regression,13.247030261805241,0.5843331662803379
+Karnataka,Chikkaballapur,site_1557,linear_regression,14.707271252503839,0.5806755980669955
+Karnataka,Hubballi,site_5680,linear_regression,19.71143748476329,0.37569928534270236
+Karnataka,Bengaluru,site_1556,linear_regression,43.677476594852465,0.20666297252322263
+Punjab,Mandi Gobindgarh,site_255,linear_regression,41.1665061934712,0.6407055394483693
+Punjab,Patiala,site_1437,linear_regression,24.983905000782297,0.6012104098442648
+Punjab,Ludhiana,site_253,linear_regression,33.87101001016128,0.5055945639250243
+Punjab,Khanna,site_1450,linear_regression,19.6651178793215,0.6842181275304502
+Odisha,Brajrajnagar,site_1410,linear_regression,21.719841751950778,0.7640177165174642
+Odisha,Talcher,site_1408,linear_regression,33.61945535133953,0.5571790700244652
+Bihar,Chhapra,site_5545,linear_regression,42.07065762835159,0.7649292976674033
+Bihar,Bhagalpur,site_5541,linear_regression,39.0452887949353,0.7064251875645766
+Bihar,Aurangabad,site_5544,linear_regression,34.83110916579826,0.6144863261578066
+Bihar,Patna,site_5263,linear_regression,45.58096658311736,0.6399165592981184
+Bihar,Rajgir,site_5489,linear_regression,36.4215608365419,0.7800866684812692
+Bihar,Bihar Sharif,site_5481,linear_regression,44.08235850671796,0.7241882301583173
+Bihar,Hajipur,site_5337,linear_regression,37.660939336988086,0.4681175917646597
+Bihar,Motihari,site_5478,linear_regression,58.33672956177265,0.494086146747283
+Bihar,Patna,site_5336,linear_regression,45.16572967775132,0.6070109526236138
+Bihar,Bhagalpur,site_5543,linear_regression,26.24616126935341,0.8839387864785545
+Bihar,Manguraha,site_5550,linear_regression,29.194099908335104,0.5858070199671803
+Bihar,Bettiah,site_5476,linear_regression,63.22006223516426,0.6789236395620761
+Bihar,Purnia,site_5549,linear_regression,38.72474283059887,0.8412396531681967
+Bihar,Gaya,site_5338,linear_regression,22.27909007752646,0.5376330801071612
+Bihar,Muzaffarpur,site_158,linear_regression,103.73903801318436,0.2558691034634265
+Bihar,Patna,site_5262,linear_regression,27.38089514541793,0.8283241192118493
+Bihar,Darbhanga,site_5477,linear_regression,43.56801397605429,0.7987386188128253
+Bihar,Gaya,site_5548,linear_regression,43.868402703410574,0.7581875374833797
+Bihar,Sasaram,site_5485,linear_regression,20.98634867498031,0.8952685506243623
+Bihar,Munger,site_5490,linear_regression,57.50021090350288,0.5612436670021527
+Bihar,Buxar,site_5542,linear_regression,46.553058336640035,0.6708409776329866
+Bihar,Begusarai,site_5540,linear_regression,62.32307558714781,0.8488089776976535
+Bihar,Muzaffarpur,site_5370,linear_regression,36.658454423380185,0.7061756306860667
+Bihar,Saharsa,site_5551,linear_regression,50.496925571342025,0.6882666483513431
+Bihar,Patna,site_5335,linear_regression,35.275467606339966,0.6330359207413517
+Bihar,Kishanganj,site_5547,linear_regression,25.676454424013873,0.9030345625891645
+Bihar,Araria,site_5539,linear_regression,27.757886582672125,0.8516097343060901
+Bihar,Patna,site_157,linear_regression,153.3274377808495,0.17482350617709985
+Bihar,Siwan,site_5553,linear_regression,45.20567058885144,0.8431328680722023
+Bihar,Samastipur,site_5552,linear_regression,36.031122270226554,0.8510940618296394
+Bihar,Muzaffarpur,site_5479,linear_regression,45.01737102205968,0.7066716635171788
+Bihar,Patna,site_5261,linear_regression,69.55792917755669,0.38746802644910605
+Bihar,Katihar,site_5546,linear_regression,46.02737916429034,0.7833773653239755
+Bihar,Arrah,site_5538,linear_regression,26.86461742499677,0.8452872292716677
+Rajasthan,Jhunjhunu,site_5717,linear_regression,10.239092687327311,0.7450643956868875
+Rajasthan,Jodhpur,site_136,linear_regression,43.03879790066554,0.48832361927109813
+Rajasthan,Bhiwadi,site_1391,linear_regression,54.356638821340276,0.5966431381165674
+Rajasthan,Jodhpur,site_5720,linear_regression,14.787479614742438,0.7861891543932468
+Rajasthan,Dausa,site_5713,linear_regression,19.463976043394656,0.36241590196446083
+Rajasthan,Pali,site_1395,linear_regression,28.282337741987305,0.5147530823372004
+Rajasthan,Pratapgarh,site_5721,linear_regression,5.505331948354932,0.647233552330608
+Rajasthan,Alwar,site_1390,linear_regression,36.42965223260204,0.28170078834367174
+Rajasthan,Jhalawar,site_5724,linear_regression,8.37047660618083,0.7797387862881058
+Rajasthan,Jodhpur,site_5694,linear_regression,19.097273046154452,0.8001276773252741
+Rajasthan,Sirohi,site_5705,linear_regression,9.109360102654227,0.6866394009838199
+Rajasthan,Karauli,site_5723,linear_regression,7.738698738040644,0.23653012108705662
+Rajasthan,Ajmer,site_1392,linear_regression,33.623839754310524,0.33219134152437646
+Rajasthan,Sri Ganganagar,site_5719,linear_regression,28.571365164028688,0.7294851515507811
+Rajasthan,Kota,site_5707,linear_regression,13.658864501970351,0.9113590964219805
+Rajasthan,Bikaner,site_5696,linear_regression,18.978486981504123,0.6858498897465781
+Rajasthan,Kota,site_5701,linear_regression,13.552266831307215,0.8352791557008208
+Rajasthan,Sikar,site_5722,linear_regression,13.099723311997147,0.6972108481584322
+Rajasthan,Kota,site_1394,linear_regression,24.96053766050314,0.6201548268369776
+Rajasthan,Barmer,site_5714,linear_regression,6.053257272528155,0.654984672422821
+Rajasthan,Bharatpur,site_5695,linear_regression,23.51170623366582,0.779040750164065
+Rajasthan,Churu,site_5699,linear_regression,13.760338893170648,0.8060562634310917
+Rajasthan,Dholpur,site_5700,linear_regression,27.861233394755427,0.6723872958006905
+Rajasthan,Rajsamand,site_5718,linear_regression,10.42938518666406,0.5944416200198015
+Rajasthan,Jaipur,site_1393,linear_regression,24.956661898323873,0.5023294545741108
+Rajasthan,Jaipur,site_134,linear_regression,31.53732309923626,0.5579999464021961
+Rajasthan,Jaipur,site_1396,linear_regression,44.996340751915426,0.24393288095234356
+Rajasthan,Udaipur,site_1397,linear_regression,22.836236607859473,0.5686646333697851
+Uttar Pradesh,Agra,site_5463,linear_regression,21.048296926191252,0.8798562749118128
+Uttar Pradesh,Lucknow,site_297,linear_regression,81.45102170071438,0.386576106150169
+Uttar Pradesh,Firozabad,site_5480,linear_regression,35.54125136119541,0.8094252474987849
+Uttar Pradesh,Varanasi,site_5469,linear_regression,12.73544981799203,0.9031618620242178
+Uttar Pradesh,Ghaziabad,site_5081,linear_regression,46.00875278713023,0.7924513702868099
+Uttar Pradesh,Baghpat,site_1569,linear_regression,64.10860933577102,0.6273179429485857
+Uttar Pradesh,Meerut,site_5258,linear_regression,33.679809496376436,0.814402782392646
+Uttar Pradesh,Agra,site_5465,linear_regression,28.779130524066197,0.8732148813353328
+Uttar Pradesh,Lucknow,site_5128,linear_regression,47.511306141775535,0.4067575242840228
+Uttar Pradesh,Agra,site_5501,linear_regression,29.87451595708204,0.8762338524056433
+Uttar Pradesh,Moradabad,site_5556,linear_regression,23.172583486524143,0.669810661275704
+Uttar Pradesh,Moradabad,site_1398,linear_regression,54.914703972054895,0.7465155575145237
+Uttar Pradesh,Lucknow,site_272,linear_regression,57.70530773044349,0.34141989781385884
+Uttar Pradesh,Varanasi,site_273,linear_regression,98.58611210536208,0.35570332297141416
+Uttar Pradesh,Varanasi,site_5468,linear_regression,14.653198501786227,0.8556043137985493
+Uttar Pradesh,Noida,site_153,linear_regression,73.04926424459234,0.6491559015532966
+Uttar Pradesh,Prayagraj,site_5484,linear_regression,17.340077914488504,0.9163887537828881
+Uttar Pradesh,Gorakhpur,site_5472,linear_regression,12.407768618174291,0.9467001674943917
+Uttar Pradesh,Prayagraj,site_5459,linear_regression,13.418403645617046,0.9207381693233474
+Uttar Pradesh,Lucknow,site_5462,linear_regression,12.841344011180635,0.9245290747893204
+Uttar Pradesh,Jhansi,site_5583,linear_regression,12.62305093943096,0.781229423822368
+Uttar Pradesh,Greater Noida,site_5121,linear_regression,41.94667226005353,0.8282564156298162
+Uttar Pradesh,Vrindavan,site_5483,linear_regression,20.556232858322193,0.9330508260695103
+Uttar Pradesh,Agra,site_307,linear_regression,101.39660182715446,0.2014298655486806
+Uttar Pradesh,Moradabad,site_5554,linear_regression,10.964909773237647,0.9661172522454684
+Uttar Pradesh,Kanpur,site_276,linear_regression,70.08054743881875,0.49997870609986816
+Uttar Pradesh,Muzaffarnagar,site_1550,linear_regression,66.79553736413686,0.5565060126968455
+Uttar Pradesh,Ghaziabad,site_144,linear_regression,57.9343390579168,0.7972565057584882
+Uttar Pradesh,Moradabad,site_5555,linear_regression,20.88678608394603,0.8665577585927062
+Uttar Pradesh,Varanasi,site_5475,linear_regression,15.017079814595355,0.9073657587817013
+Uttar Pradesh,Greater Noida,site_1541,linear_regression,42.27952324696715,0.8129626085393846
+Uttar Pradesh,Lucknow,site_277,linear_regression,72.10424781417505,0.3588202911399385
+Uttar Pradesh,Ghaziabad,site_5082,linear_regression,38.866134894323174,0.8713665282246402
+Uttar Pradesh,Noida,site_5123,linear_regression,45.883277581628796,0.8223702748602801
+Uttar Pradesh,Noida,site_5122,linear_regression,48.573966457103175,0.7929561778280731
+Uttar Pradesh,Bulandshahr,site_1542,linear_regression,44.72398720048233,0.7710470261748905
+Uttar Pradesh,Meerut,site_5257,linear_regression,45.22365353439077,0.7120497263493976
+Uttar Pradesh,Moradabad,site_5537,linear_regression,22.891539231324717,0.8384595556514118
+Uttar Pradesh,Agra,site_5464,linear_regression,18.7933250617482,0.9103454640732034
+Uttar Pradesh,Hapur,site_5023,linear_regression,45.64440925143977,0.6979253140369508
+Uttar Pradesh,Meerut,site_5109,linear_regression,46.10538561083048,0.7397049643770405
+Uttar Pradesh,Agra,site_5482,linear_regression,19.69397988907436,0.5099229988503
+Uttar Pradesh,Ghaziabad,site_5083,linear_regression,52.14119858535415,0.8322362449924339
+West Bengal,Asansol,site_1418,linear_regression,23.073752750841237,0.7403212306004685
+Jammu and Kashmir,Srinagar,site_5424,linear_regression,17.77992531903596,0.29941677441431924
+Telangana,Hyderabad,site_5596,linear_regression,7.784619947063599,0.4596508084828037
+Telangana,Hyderabad,site_5600,linear_regression,14.889983476966565,0.5213106847856792
+Telangana,Hyderabad,site_5604,linear_regression,8.440756045886204,0.7600702141351928
+Telangana,Hyderabad,site_298,linear_regression,13.424970762281887,0.7342921495698723
+Telangana,Hyderabad,site_5599,linear_regression,7.247850285681839,0.6062404069245121
+Telangana,Hyderabad,site_5597,linear_regression,10.733867844774787,0.4552881587034999
+Telangana,Hyderabad,site_262,linear_regression,26.487976981716546,0.4526711988252803
+Telangana,Hyderabad,site_5595,linear_regression,20.904279945033633,0.4648936346981437
+Telangana,Hyderabad,site_275,linear_regression,11.208949354033026,0.8089705329427114
+Telangana,Hyderabad,site_199,linear_regression,11.320824582956444,0.7951519010963389
+Telangana,Hyderabad,site_5602,linear_regression,10.152690346979467,0.7212198684407362
+Telangana,Hyderabad,site_294,linear_regression,60.17627346286449,0.049595168268432244
+Telangana,Hyderabad,site_251,linear_regression,9.285454718694535,0.8640302926709604
+Telangana,Hyderabad,site_5598,linear_regression,14.43217028640573,0.6328706237883444
+Chhattisgarh,Tumidih,site_5692,linear_regression,14.807027245261528,0.796636714136682
+Chhattisgarh,Kunjemura,site_5690,linear_regression,18.129341556561396,0.24363080129596448
+Chhattisgarh,Bhilai,site_5659,linear_regression,13.801318202318567,0.6999553684904332
+Chhattisgarh,Bhilai,site_5660,linear_regression,7.621576674977073,0.8446463972484282
+Chhattisgarh,Bilaspur,site_5503,linear_regression,9.991553353183182,0.1477365442853813
+Chhattisgarh,Milupara,site_5691,linear_regression,4.410493001453163,0.7765516583024785
+Chhattisgarh,Chhal,site_5689,linear_regression,11.864199799043767,0.6709885469062551
+Haryana,Faridabad,site_263,linear_regression,91.78347294118838,0.24559153592257987
+Haryana,Bhiwani,site_5047,linear_regression,34.854461394128556,0.5627118077780956
+Haryana,Faridabad,site_5342,linear_regression,60.4256780955708,0.5955825544790314
+Haryana,Kaithal,site_5072,linear_regression,29.991596287969813,0.6721453159983184
+Haryana,Faridabad,site_5340,linear_regression,53.88467507778272,0.5580807681237283
+Haryana,Jind,site_5056,linear_regression,34.847618544369794,0.7699182218891041
+Haryana,Dharuhera,site_5044,linear_regression,38.20866179006231,0.6416597595511518
+Haryana,Bahadurgarh,site_5045,linear_regression,33.79569891041279,0.7584397497140409
+Haryana,Yamuna Nagar,site_5046,linear_regression,29.265645372619307,0.6999733534520554
+Haryana,Ballabgarh,site_5060,linear_regression,36.89031597172973,0.6612707913157355
+Haryana,Palwal ,site_5050,linear_regression,31.02279683576373,0.5831966702681346
+Haryana,Ambala,site_5052,linear_regression,29.93542994084958,0.5999683010361019
+Haryana,Gurugram,site_5344,linear_regression,36.00668897285849,0.7007955673991868
+Haryana,Kurukshetra ,site_5043,linear_regression,21.386998433171826,0.8431883295244443
+Haryana,Gurugram,site_5345,linear_regression,47.65133094956082,0.7497781097816327
+Haryana,Panchkula,site_161,linear_regression,38.29560512374698,0.07298333336621965
+Haryana,Charkhi Dadri,site_5339,linear_regression,40.82872222595529,0.6229665840928186
+Haryana,Panipat,site_5048,linear_regression,37.8638719292185,0.5297803148283378
+Haryana,Faridabad,site_5341,linear_regression,43.21859074504862,0.5676584531076665
+Haryana,Fatehabad,site_5054,linear_regression,45.42173879157414,0.48329246273164617
+Haryana,Mandikhera,site_5055,linear_regression,28.580936368660797,0.5640285311514197
+Haryana,Sonipat,site_5041,linear_regression,34.13347145601336,0.4554993084679946
+Haryana,Karnal,site_5049,linear_regression,30.11402329882925,0.6141644965486416
+Haryana,Manesar,site_5039,linear_regression,43.579918385804255,0.6028314797422518
+Haryana,Sirsa,site_5051,linear_regression,62.20207965693922,0.3192678569891314
+Haryana,Hisar,site_5057,linear_regression,39.20052805650552,0.6929776141209645
+Haryana,Narnaul,site_5053,linear_regression,46.01583545478305,0.31283492996772055
+Gujarat,Ankleshwar,site_5065,linear_regression,23.721994270217525,0.6299418170243087
+Gujarat,Gandhinagar,site_5457,linear_regression,8.789481588419395,0.9688676150098564
+Gujarat,Surat,site_5664,linear_regression,19.230066805324835,0.8367090388874556
+Gujarat,Gandhinagar,site_5458,linear_regression,24.306170494812672,0.5719685407578587
+Gujarat,Ahmedabad,site_5456,linear_regression,27.11158956136878,0.6775902759872845
+Gujarat,Ahmedabad,site_5453,linear_regression,31.845949148700356,0.6989628324238093
+Gujarat,Vapi,site_5071,linear_regression,30.17078975394495,0.7309847738033568
+Gujarat,Ahmedabad,site_5454,linear_regression,23.95223658147922,0.7477159813764896
+Gujarat,Ahmedabad,site_308,linear_regression,44.001219531403436,0.23310739186879925
+Gujarat,Vatva,site_5067,linear_regression,24.35746450852918,0.6238417963279874
+Gujarat,Gandhinagar,site_5066,linear_regression,11.45912521998664,0.5628226976972267
+Gujarat,Ahmedabad,site_5455,linear_regression,14.267523013686063,0.8078668686674295
+Gujarat,Ahmedabad,site_5449,linear_regression,5.454808515882515,0.9757300111688105
+Manipur,Imphal,site_5591,linear_regression,16.52427820079922,0.8700228028023231
+Manipur,Imphal,site_5592,linear_regression,6.555105836311307,0.8155703606807431
+Sikkim,Gangtok,site_5590,linear_regression,7.673212960868115,0.8764866104198465
+Himachal Pradesh,Baddi,site_5586,linear_regression,22.230840939437126,0.8498814687415327
+Maharashtra,Kalyan,site_5118,linear_regression,24.534424528801534,0.6780095055938717
+Maharashtra,Nashik,site_304,linear_regression,22.445812360993283,0.4020417818763349
+Maharashtra,Mumbai,site_5120,linear_regression,18.275219546181976,0.7078280696438841
+Maharashtra,Pune,site_292,linear_regression,41.40223709749969,0.6286438972106358
+Maharashtra,Navi Mumbai,site_5114,linear_regression,21.54805363856241,0.7547460251836603
+Maharashtra,Mumbai,site_5115,linear_regression,19.174002864923754,0.7767024156193946
+Maharashtra,Mumbai,site_5398,linear_regression,30.89436514765506,0.5799612522937612
+Maharashtra,Solapur,site_302,linear_regression,22.848194895985692,0.39067925795457636
+Maharashtra,Chandrapur,site_271,linear_regression,58.52185245144526,0.252954278981945
+Maharashtra,Mumbai,site_5119,linear_regression,16.71769407701975,0.7702350422935818
+Maharashtra,Mumbai,site_5402,linear_regression,40.18954641114331,0.5328500847965078
+Maharashtra,Pune,site_5409,linear_regression,27.48614639842527,0.6180224577421636
+Maharashtra,Mumbai,site_5399,linear_regression,9.735227440048591,0.9668365133457629
+Maharashtra,Mumbai,site_5392,linear_regression,36.48299686466122,0.436363962565666
+Maharashtra,Mumbai,site_5106,linear_regression,19.23722247097224,0.76399821505395
+Maharashtra,Mumbai,site_5394,linear_regression,18.79810370658653,0.9379370670591538
+Maharashtra,Aurangabad,site_198,linear_regression,31.386424214678858,0.2521784102172093
+Maharashtra,Mumbai,site_5397,linear_regression,3.122295746836248,0.9908179699954657
+Maharashtra,Chandrapur,site_295,linear_regression,22.689696141077906,0.4123480089908318
+Maharashtra,Nagpur,site_303,linear_regression,30.7189973902357,0.3335691182687579
+Maharashtra,Mumbai,site_5412,linear_regression,26.016358000155986,0.6046108584174148
+Maharashtra,Mumbai,site_5113,linear_regression,17.282828724666597,0.7196528692031742
+Maharashtra,Navi Mumbai,site_5401,linear_regression,32.33462896475719,0.5878299778086565
+Maharashtra,Mumbai,site_5107,linear_regression,17.909237352527473,0.6713941132563483
+Maharashtra,Mumbai,site_5104,linear_regression,47.56963430828836,0.33852392450551894
+Maharashtra,Navi Mumbai,site_5103,linear_regression,34.09615225373512,0.5324053910618951
+Maharashtra,Mumbai,site_5396,linear_regression,7.111194172626255,0.9756959774553812
+Maharashtra,Mumbai,site_5413,linear_regression,17.444790313206646,0.7230160805876347
+Maharashtra,Mumbai,site_5403,linear_regression,3.511056501626039,0.9892759262614947
+Maharashtra,Mumbai,site_5102,linear_regression,23.695347021238693,0.5281501997566748
+Maharashtra,Mumbai,site_5400,linear_regression,25.989606238583573,0.48708722607048505
+Maharashtra,Mumbai,site_5112,linear_regression,14.27377956601635,0.814931306710732
+Tamil Nadu,Ooty,site_5624,linear_regression,8.845264648466273,0.7644685935842913
+Tamil Nadu,Hosur,site_5612,linear_regression,0.13609928890957043,0.9999702669647039
+Tamil Nadu,Tirupur,site_5607,linear_regression,23.43115896219336,0.6091198713780358
+Tamil Nadu,Chennai,site_5092,linear_regression,26.556507381639893,0.2766375028675162
+Tamil Nadu,Chennai,site_5361,linear_regression,11.46823216498028,0.8415090179182172
+Tamil Nadu,Chennai,site_293,linear_regression,62.84189082401497,0.05378638868278707
+Tamil Nadu,Chennai,site_306,linear_regression,139.30639686642155,0.457565329461591
+Tamil Nadu,Chennai,site_5363,linear_regression,16.604117794887202,0.6623921650738805
+Tamil Nadu,Chennai,site_5618,linear_regression,14.589275435342767,0.8090633007664325
+Tamil Nadu,Chennai,site_5364,linear_regression,13.88397708419961,0.7080085486948449
+Tamil Nadu,Gummidipoondi,site_5362,linear_regression,36.8417771540662,0.4583101001189679
+Tamil Nadu,Chennai,site_5365,linear_regression,54.00555313443949,0.443978920593846
+Tamil Nadu,Salem,site_5622,linear_regression,12.352589668433145,0.7987768413925346
+Tamil Nadu,Coimbatore,site_5094,linear_regression,16.693068542325367,0.24511381860921722
+Tamil Nadu,Chennai,site_288,linear_regression,34.25346073432362,0.02088400062727791
+Tamil Nadu,Ramanathapuram,site_5625,linear_regression,11.701683724370078,0.6621896840651628
+Madhya Pradesh,Gwalior,site_5661,linear_regression,43.288207326005,0.7171680534911635
+Madhya Pradesh,Dewas,site_1404,linear_regression,21.548723444810783,0.5381158913173637
+Madhya Pradesh,Pithampur,site_1402,linear_regression,21.787470299499436,0.5348319509303259
+Madhya Pradesh,Gwalior,site_5667,linear_regression,20.896413363751076,0.8988595170062996
+Madhya Pradesh,Bhopal,site_5650,linear_regression,38.21288898855333,0.6899151194377979
+Madhya Pradesh,Katni,site_5250,linear_regression,23.219824586883348,0.810460532079579
+Madhya Pradesh,Gwalior,site_5273,linear_regression,23.0522301598147,0.8659635472106073
+Madhya Pradesh,Indore,site_5248,linear_regression,18.460170055799694,0.728542580927874
+Madhya Pradesh,Bhopal,site_5247,linear_regression,18.967632107537042,0.7735745701621287
+Madhya Pradesh,Mandideep,site_1403,linear_regression,30.107476197257046,0.50406669866892
+Madhya Pradesh,Jabalpur,site_5249,linear_regression,20.918793660710012,0.8122169261033872
+Madhya Pradesh,Bhopal,site_5708,linear_regression,12.769110398003837,0.8069114449636479
+Kerala,Eloor,site_5105,linear_regression,12.90801910970904,0.22469758028640985
+Kerala,Kozhikode,site_5271,linear_regression,16.340377804411155,0.5241254317930963
+Kerala,Ernakulam,site_5272,linear_regression,13.510862428941985,0.720261965917899
+Kerala,Thiruvananthapuram,site_5331,linear_regression,11.306484411435605,0.47197045575786545
+Kerala,Kollam,site_5334,linear_regression,13.4970204367283,0.4167636475557206
+Kerala,Thrissur,site_5390,linear_regression,12.394661402996523,0.5198049018556985
+Kerala,Thiruvananthapuram,site_252,linear_regression,22.73540854488391,0.45074138492151206
+Kerala,Kannur,site_5276,linear_regression,11.773234512848473,0.5252717894411219
+Andhra Pradesh,Rajamahendravaram,site_1399,linear_regression,11.384624955896934,0.8774396447682727
+Andhra Pradesh,Anantapur,site_5632,linear_regression,13.967279059268279,0.4365905600106118
+Andhra Pradesh,Chittoor,site_5665,linear_regression,60.289414584906034,0.7770096725384303
+Andhra Pradesh,Tirupati,site_5666,linear_regression,24.75100369003173,0.11786905628213218
+Andhra Pradesh,Visakhapatnam,site_260,linear_regression,16.26898896285621,0.7603478407259516
+Andhra Pradesh,Tirupati,site_258,linear_regression,10.518953384503382,0.7563054245439822
+Andhra Pradesh,Vijayawada,site_5685,linear_regression,23.61964692631079,0.8676375609263773
+Andhra Pradesh,Amaravati,site_1406,linear_regression,9.982068882719433,0.877765351888984
+Andhra Pradesh,Kadapa,site_5693,linear_regression,38.972043087462424,0.611329547430489
+Assam,Guwahati,site_5683,linear_regression,20.334683840384695,0.7676808387127986
+Assam,Guwahati,site_5073,linear_regression,32.586007026437166,0.7957599927149211
+Assam,Nagaon,site_5706,linear_regression,30.687147139794096,0.616890395840705
+Assam,Silchar,site_5684,linear_regression,8.450961527118107,0.4090698613004261
+Assam,Guwahati,site_5651,linear_regression,30.758929590146174,0.7503641564768364
+Assam,Guwahati,site_5417,linear_regression,25.27036741167027,0.7842178934011369
+Assam,Byrnihat,site_5669,linear_regression,60.74373806260257,0.7950969257364182
+Assam,Sivasagar,site_5658,linear_regression,6.506817834929429,0.8100518502680155
+Assam,Nalbari,site_5668,linear_regression,47.829405036676455,0.7322412079413081
+Uttarakhand,Dehradun,site_5594,linear_regression,19.54304725264306,0.6888121766157294
+Uttarakhand,Kashipur,site_5704,linear_regression,9.966579295749805,0.7320297539650222
+Uttarakhand,Rishikesh,site_5703,linear_regression,2.852051639187389,0.9287774028001661
+Chandigarh,Chandigarh,site_5127,linear_regression,15.51361684803517,0.7276008012979158
+Chandigarh,Chandigarh,site_5491,linear_regression,18.496308584979584,0.8037263492876272
+Chandigarh,Chandigarh,site_5582,linear_regression,19.845233443663112,0.8775445618437876
+Tripura,Agartala,site_5377,linear_regression,21.834990020731933,0.7806283376054994
+Tripura,Agartala,site_5587,linear_regression,23.23300046014066,0.8652874567203083
+Delhi,Delhi,site_1428,linear_regression,38.006200640302794,0.8477610537614144
+Delhi,Delhi,site_1434,linear_regression,51.751004120550725,0.7874787236163019
+Delhi,Delhi,site_1562,linear_regression,33.278897616015584,0.8338377960976084
+Delhi,Delhi,site_1427,linear_regression,35.74552104733169,0.7741108172532477
+Delhi,Delhi,site_122,linear_regression,68.04873576516725,0.48525522766130014
+Delhi,Delhi,site_1426,linear_regression,42.4213961201863,0.8264286986081378
+Delhi,Delhi,site_1432,linear_regression,44.22642899080396,0.8073403822041192
+Delhi,Delhi,site_1421,linear_regression,36.60284675045514,0.8204132061984619
+Delhi,Delhi,site_1560,linear_regression,52.22752253365247,0.7783570726571464
+Delhi,Delhi,site_113,linear_regression,70.48526966082972,0.17406505325789634
+Delhi,Delhi,site_1430,linear_regression,46.58487831188243,0.8364386206961854
+Delhi,Delhi,site_1429,linear_regression,41.972396272606886,0.8865596985844402
+Delhi,Delhi,site_115,linear_regression,67.65258084460925,0.1686521921769858
+Delhi,Delhi,site_124,linear_regression,96.64656717476849,0.43177280366037973
+Delhi,Delhi,site_114,linear_regression,169.12188181696033,0.29965469987744553
+Delhi,Delhi,site_1561,linear_regression,54.25998045755469,0.7967128106340937
+Delhi,Delhi,site_5024,linear_regression,39.54465993324845,0.8364982061558748
+Delhi,Delhi,site_125,linear_regression,86.81265863628109,0.44475577723459225
+Delhi,Delhi,site_301,linear_regression,73.1989095300621,0.6494302125666269
+Delhi,Delhi,site_1425,linear_regression,35.8643050307372,0.8292060035996337
+Delhi,Delhi,site_1435,linear_regression,51.53570827325633,0.7827477613637159
+Delhi,Delhi,site_5393,linear_regression,51.79851104971483,0.45325055464848363
+Delhi,Delhi,site_1563,linear_regression,36.45490945920453,0.8388836142182327
+Delhi,Delhi,site_1422,linear_regression,48.996995499976066,0.7392596216911442
+Delhi,Delhi,site_1420,linear_regression,43.921987273825394,0.8316865143060562
+Delhi,Delhi,site_1431,linear_regression,42.09637733790692,0.8345368137698654
+Delhi,Delhi,site_1424,linear_regression,38.69972840387108,0.826344693611812
+Delhi,Delhi,site_1423,linear_regression,45.837376583834256,0.8560243386190425

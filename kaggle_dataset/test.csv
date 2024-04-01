@@ -1,0 +1,243 @@
+state,city,start_month_num,start_year
+Andhra Pradesh,Amaravati,11,2017
+Andhra Pradesh,Anantapur,8,2022
+Andhra Pradesh,Chittoor,11,2022
+Andhra Pradesh,Kadapa,1,2023
+Andhra Pradesh,Rajamahendravaram,9,2017
+Andhra Pradesh,Tirupati,18,4038
+Andhra Pradesh,Vijayawada,6,4040
+Andhra Pradesh,Visakhapatnam,7,2017
+Arunachal Pradesh,Naharlagun,3,2021
+Assam,Byrnihat,12,2022
+Assam,Guwahati,36,8083
+Assam,Nagaon,3,2023
+Assam,Nalbari,11,2022
+Assam,Silchar,1,2023
+Assam,Sivasagar,9,2022
+Bihar,Araria,11,2021
+Bihar,Arrah,12,2021
+Bihar,Aurangabad,11,2021
+Bihar,Begusarai,4,2022
+Bihar,Bettiah,7,2021
+Bihar,Bhagalpur,22,4042
+Bihar,Bihar Sharif,7,2021
+Bihar,Buxar,11,2021
+Bihar,Chhapra,11,2021
+Bihar,Darbhanga,7,2021
+Bihar,Gaya,17,6057
+Bihar,Hajipur,3,2020
+Bihar,Katihar,11,2021
+Bihar,Kishanganj,11,2021
+Bihar,Manguraha,11,2021
+Bihar,Motihari,7,2021
+Bihar,Munger,7,2021
+Bihar,Muzaffarpur,25,6056
+Bihar,Patna,49,12109
+Bihar,Purnia,11,2021
+Bihar,Rajgir,7,2021
+Bihar,Saharsa,11,2021
+Bihar,Samastipur,3,2022
+Bihar,Sasaram,7,2021
+Bihar,Siwan,11,2021
+Chandigarh,Chandigarh,17,6062
+Chhattisgarh,Bhilai,31,6065
+Chhattisgarh,Bilaspur,9,2021
+Chhattisgarh,Chhal,1,2023
+Chhattisgarh,Korba,20,4044
+Chhattisgarh,Kunjemura,1,2023
+Chhattisgarh,Milupara,1,2023
+Chhattisgarh,Raipur,40,8088
+Chhattisgarh,Tumidih,1,2023
+Delhi,Delhi,179,80599
+Gujarat,Ahmedabad,59,18178
+Gujarat,Ankleshwar,2,2019
+Gujarat,Gandhinagar,14,6061
+Gujarat,Nandesari,1,2020
+Gujarat,Surat,11,2022
+Gujarat,Vapi,2,2019
+Gujarat,Vatva,2,2019
+Haryana,Ambala,1,2019
+Haryana,Bahadurgarh,1,2019
+Haryana,Ballabgarh,1,2019
+Haryana,Bhiwani,1,2019
+Haryana,Charkhi Dadri,3,2020
+Haryana,Dharuhera,1,2019
+Haryana,Faridabad,18,8070
+Haryana,Fatehabad,1,2019
+Haryana,Gurugram,28,8071
+Haryana,Hisar,1,2019
+Haryana,Jind,1,2019
+Haryana,Kaithal,2,2019
+Haryana,Karnal,1,2019
+Haryana,Kurukshetra,1,2019
+Haryana,Mandikhera,1,2019
+Haryana,Manesar,5,2018
+Haryana,Narnaul,1,2019
+Haryana,Palwal,2,2019
+Haryana,Panchkula,12,2015
+Haryana,Panipat,1,2019
+Haryana,Rohtak,1,2016
+Haryana,Sirsa,1,2019
+Haryana,Sonipat,12,2018
+Haryana,Yamuna Nagar,1,2019
+Himachal Pradesh,Baddi,3,2022
+Jammu and Kashmir,Srinagar,2,2021
+Jharkhand,Dhanbad,2,2023
+Jharkhand,Jorapokhar,5,2017
+Karnataka,Bagalkot,1,2020
+Karnataka,Belgaum,8,2022
+Karnataka,Bengaluru,72,24195
+Karnataka,Bidar,1,2021
+Karnataka,Chamarajanagar,7,2019
+Karnataka,Chikkaballapur,6,2018
+Karnataka,Chikkamagaluru,1,2020
+Karnataka,Davanagere,1,2021
+Karnataka,Dharwad,8,2022
+Karnataka,Gadag,1,2021
+Karnataka,Hassan,3,2021
+Karnataka,Haveri,4,2022
+Karnataka,Hubballi,13,4037
+Karnataka,Kalaburagi,19,4040
+Karnataka,Kolar,6,2018
+Karnataka,Koppal,12,2020
+Karnataka,Madikeri,10,2020
+Karnataka,Mangalore,1,2021
+Karnataka,Mysuru,7,2019
+Karnataka,Raichur,12,2020
+Karnataka,Ramanagara,9,2019
+Karnataka,Shivamogga,1,2020
+Karnataka,Tumakuru,12,2022
+Karnataka,Udupi,2,2021
+Karnataka,Vijayapura,1,2020
+Karnataka,Yadgir,9,2019
+Kerala,Eloor,5,2019
+Kerala,Ernakulam,1,2020
+Kerala,Kannur,2,2020
+Kerala,Kochi,1,2020
+Kerala,Kollam,2,2020
+Kerala,Kozhikode,1,2020
+Kerala,Thiruvananthapuram,8,4037
+Kerala,Thrissur,10,2020
+Madhya Pradesh,Bhopal,20,6064
+Madhya Pradesh,Damoh,12,2018
+Madhya Pradesh,Dewas,11,2017
+Madhya Pradesh,Gwalior,24,8084
+Madhya Pradesh,Indore,12,4042
+Madhya Pradesh,Jabalpur,9,2019
+Madhya Pradesh,Katni,9,2019
+Madhya Pradesh,Maihar,2,2019
+Madhya Pradesh,Mandideep,1,2018
+Madhya Pradesh,Pithampur,11,2017
+Madhya Pradesh,Ratlam,12,2018
+Madhya Pradesh,Sagar,11,4042
+Madhya Pradesh,Satna,2,2018
+Madhya Pradesh,Singrauli,12,2017
+Madhya Pradesh,Ujjain,2,2017
+Maharashtra,Aurangabad,9,2017
+Maharashtra,Chandrapur,15,4031
+Maharashtra,Kalyan,6,2019
+Maharashtra,Mumbai,169,42402
+Maharashtra,Nagpur,4,2016
+Maharashtra,Nashik,9,2016
+Maharashtra,Navi Mumbai,18,8070
+Maharashtra,Pune,58,16152
+Maharashtra,Solapur,12,2015
+Maharashtra,Thane,9,2016
+Manipur,Imphal,8,4044
+Meghalaya,Shillong,12,4041
+Mizoram,Aizawl,3,2020
+Nagaland,Kohima,9,2020
+Odisha,Baripada,11,2022
+Odisha,Bileipada,11,2022
+Odisha,Brajrajnagar,4,2017
+Odisha,Keonjhar,11,2022
+Odisha,Nayagarh,11,2022
+Odisha,Rairangpur,11,2022
+Odisha,Rourkela,4,6069
+Odisha,Suakati,11,2022
+Odisha,Talcher,12,2017
+Odisha,Tensa,11,2022
+Puducherry,Puducherry,1,2021
+Punjab,Amritsar,3,2017
+Punjab,Bathinda,6,2018
+Punjab,Jalandhar,2,2018
+Punjab,Khanna,4,2018
+Punjab,Ludhiana,5,2017
+Punjab,Mandi Gobindgarh,4,2017
+Punjab,Patiala,2,2018
+Punjab,Rupnagar,4,2018
+Rajasthan,Ajmer,10,2017
+Rajasthan,Alwar,10,2017
+Rajasthan,Banswara,2,2023
+Rajasthan,Barmer,2,2023
+Rajasthan,Bharatpur,2,2023
+Rajasthan,Bhiwadi,10,2017
+Rajasthan,Bikaner,2,2023
+Rajasthan,Chittorgarh,2,2023
+Rajasthan,Churu,2,2023
+Rajasthan,Dausa,2,2023
+Rajasthan,Dholpur,2,2023
+Rajasthan,Hanumangarh,2,2023
+Rajasthan,Jaipur,25,10097
+Rajasthan,Jaisalmer,1,2023
+Rajasthan,Jhalawar,3,2023
+Rajasthan,Jhunjhunu,3,2023
+Rajasthan,Jodhpur,17,6061
+Rajasthan,Karauli,3,2023
+Rajasthan,Kota,14,6063
+Rajasthan,Pali,10,2017
+Rajasthan,Pratapgarh,3,2023
+Rajasthan,Rajsamand,3,2023
+Rajasthan,Sawai Madhopur,2,2023
+Rajasthan,Sikar,3,2023
+Rajasthan,Sirohi,2,2023
+Rajasthan,Sri Ganganagar,3,2023
+Rajasthan,Udaipur,10,2017
+Sikkim,Gangtok,4,2022
+Tamil Nadu,Ariyalur,12,2022
+Tamil Nadu,Chengalpattu,8,2022
+Tamil Nadu,Chennai,59,18151
+Tamil Nadu,Coimbatore,15,4041
+Tamil Nadu,Cuddalore,6,4046
+Tamil Nadu,Dindigul,9,2022
+Tamil Nadu,Gummidipoondi,1,2021
+Tamil Nadu,Hosur,8,2022
+Tamil Nadu,Kanchipuram,10,2022
+Tamil Nadu,Ooty,10,2022
+Tamil Nadu,Palkalaiperur,3,2023
+Tamil Nadu,Ramanathapuram,8,2022
+Tamil Nadu,Salem,8,2022
+Tamil Nadu,Thoothukudi,11,2020
+Tamil Nadu,Tirupur,8,2022
+Tamil Nadu,Vellore,8,2022
+Telangana,Hyderabad,86,28268
+Tripura,Agartala,14,4042
+Uttar Pradesh,Agra,44,12115
+Uttar Pradesh,Baghpat,8,4040
+Uttar Pradesh,Bareilly,13,4044
+Uttar Pradesh,Bulandshahr,5,2018
+Uttar Pradesh,Firozabad,9,4043
+Uttar Pradesh,Ghaziabad,15,8074
+Uttar Pradesh,Gorakhpur,6,2021
+Uttar Pradesh,Greater Noida,11,4037
+Uttar Pradesh,Hapur,10,2018
+Uttar Pradesh,Jhansi,2,2022
+Uttar Pradesh,Kanpur,38,8072
+Uttar Pradesh,Khurja,6,2022
+Uttar Pradesh,Lucknow,46,14108
+Uttar Pradesh,Meerut,26,6057
+Uttar Pradesh,Moradabad,59,14146
+Uttar Pradesh,Muzaffarnagar,6,2018
+Uttar Pradesh,Noida,33,8067
+Uttar Pradesh,Prayagraj,19,6063
+Uttar Pradesh,Varanasi,29,8073
+Uttar Pradesh,Vrindavan,8,2021
+Uttarakhand,Dehradun,4,2022
+Uttarakhand,Kashipur,2,2023
+Uttarakhand,Rishikesh,2,2023
+West Bengal,Asansol,2,2018
+West Bengal,Durgapur,7,2016
+West Bengal,Haldia,12,2015
+West Bengal,Howrah,12,6053
+West Bengal,Kolkata,45,14127
+West Bengal,Siliguri,2,2018

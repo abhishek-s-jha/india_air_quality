@@ -1,0 +1,85 @@
+1682851302328	geckodriver	INFO	Listening on 127.0.0.1:58721
+1682851302423	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7VGc2v"
+Gtk-Message: 16:11:42.496: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682851398296	geckodriver	INFO	Listening on 127.0.0.1:49545
+1682851399379	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileeG00S8"
+Gtk-Message: 16:13:19.463: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682851593190	geckodriver	INFO	Listening on 127.0.0.1:49395
+1682851593271	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNGrynF"
+Gtk-Message: 16:16:33.347: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682851670378	geckodriver	INFO	Listening on 127.0.0.1:47487
+1682851671467	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileGYSOrv"
+Gtk-Message: 16:17:51.551: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682851680006	geckodriver	INFO	Listening on 127.0.0.1:54967
+1682851680088	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVXeh80"
+Gtk-Message: 16:18:00.166: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682851859308	geckodriver	INFO	Listening on 127.0.0.1:47807
+1682851859390	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileYky0dX"
+Gtk-Message: 16:20:59.463: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682852008505	geckodriver	INFO	Listening on 127.0.0.1:38693
+1682852047940	geckodriver	INFO	Listening on 127.0.0.1:56441
+1682852076456	geckodriver	INFO	Listening on 127.0.0.1:52291
+1682852133181	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileKrxvdK"
+Gtk-Message: 16:25:33.257: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682852257679	geckodriver	INFO	Listening on 127.0.0.1:45743
+1682852258757	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile50MpE1"
+*** You are running in headless mode.
+Gtk-Message: 16:27:38.832: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1682852397852	geckodriver	INFO	Listening on 127.0.0.1:46025
+1682852397943	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileLbXm75"
+Gtk-Message: 16:29:58.024: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682852481327	geckodriver	INFO	Listening on 127.0.0.1:57299
+1682852481415	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7J5KMh"
+Gtk-Message: 16:31:21.492: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682852541379	geckodriver	INFO	Listening on 127.0.0.1:39809
+1682852542847	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNvM7cO"
+Gtk-Message: 16:32:22.921: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682853622327	geckodriver	INFO	Listening on 127.0.0.1:53035
+1682853622778	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileTiKDGs"
+Gtk-Message: 16:50:22.855: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
